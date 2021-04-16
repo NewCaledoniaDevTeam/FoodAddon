@@ -14,7 +14,13 @@
                 "saturation_modifier": "low",
                 "can_always_eat": true,
                 "is_meat": false,
-                "using_converts_to": "minecraft:bucket"
+                "using_converts_to": "minecraft:bucket",
+                "effects": [{
+                    "name": "clear",
+                    "chance": 1.0,
+                    "duration": 120,
+                    "amplifier": 10
+                }]
             }
         }
     }

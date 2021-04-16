@@ -13,7 +13,20 @@
                 "nutritionalValue": "low",
                 "saturation_modifier": "low",
                 "can_always_eat": true,
-                "is_meat": false
+                "is_meat": false,
+                "effects": [{
+                        "name": "regeneration",
+                        "chance": 1.0,
+                        "duration": 120,
+                        "amplifier": 10
+                    },
+                    {
+                        "name": "speed",
+                        "chance": 1.0,
+                        "duration": 120,
+                        "amplifier": 10
+                    }
+                ]
             }
         }
     }

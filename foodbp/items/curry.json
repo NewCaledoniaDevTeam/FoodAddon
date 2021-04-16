@@ -13,7 +13,13 @@
                 "nutritionalValue": "low",
                 "saturation_modifier": "low",
                 "can_always_eat": true,
-                "is_meat": false
+                "is_meat": false,
+                "effects": [{
+                    "name": "fire_resistance",
+                    "chance": 1.0,
+                    "duration": 15,
+                    "amplifier": 4
+                }]
             }
         }
     }

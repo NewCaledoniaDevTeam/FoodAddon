@@ -5,9 +5,9 @@
         "name": "New Caledonian Food",
         "uuid": "62506be3-4d57-3da4-a0d1-58a67253ea99",
         "version": [
-            1,
             0,
-            0
+            0,
+            3
         ],
         "min_engine_version": [
             1,
@@ -20,17 +20,17 @@
         "type": "data",
         "uuid": "1dc21d60-4dd2-3574-aa19-c52661df88b1",
         "version": [
-            1,
             0,
-            0
+            0,
+            3
         ]
     }],
     "dependencies": [{
         "uuid": "7905c7fb-8333-391a-a628-aa5c04762be5",
         "version": [
-            1,
             0,
-            0
+            0,
+            3
         ]
     }]
 }

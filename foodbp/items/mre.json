@@ -13,7 +13,21 @@
                 "nutritionalValue": "low",
                 "saturation_modifier": "low",
                 "can_always_eat": true,
-                "is_meat": true
+                "is_meat": true,
+                "using_converts_to": "food:empty_mre",
+                "effects": [{
+                        "name": "regeneration",
+                        "chance": 1.0,
+                        "duration": 30,
+                        "amplifier": 4
+                    },
+                    {
+                        "name": "resistance",
+                        "chance": 1.0,
+                        "duration": 30,
+                        "amplifier": 4
+                    }
+                ]
             }
         }
     }
