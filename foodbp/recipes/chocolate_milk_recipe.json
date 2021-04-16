@@ -1,0 +1,57 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:chocolate_milk_recipe"
+        },
+        "groups": [
+            "food"
+        ],
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "012",
+            "345",
+            "678"
+        ],
+        "key": {
+            "0": {
+                "item": "minecraft:dye",
+                "data": 3
+            },
+            "1": {
+                "item": "minecraft:sugar"
+            },
+            "2": {
+                "item": "minecraft:dye",
+                "data": 3
+            },
+            "3": {
+                "item": "minecraft:sugar"
+            },
+            "4": {
+                "item": "minecraft:bucket",
+                "data": 1
+            },
+            "5": {
+                "item": "minecraft:sugar"
+            },
+            "6": {
+                "item": "minecraft:dye",
+                "data": 3
+            },
+            "7": {
+                "item": "minecraft:sugar"
+            },
+            "8": {
+                "item": "minecraft:dye",
+                "data": 3
+            }
+        },
+        "result": {
+            "item": "food:chocolate_milk",
+            "count": 1
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "",
+        "name": "New Caledonian Food",
+        "uuid": "7905c7fb-8333-391a-a628-aa5c04762be5",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            16,
+            0
+        ]
+    },
+    "modules": [{
+        "description": "",
+        "type": "resources",
+        "uuid": "e336ace2-b13c-3a75-a871-fba96d9c39d1",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    }]
+}

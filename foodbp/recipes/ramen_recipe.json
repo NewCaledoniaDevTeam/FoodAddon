@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:ramen_recipe"
+        },
+        "groups": [
+            "food"
+        ],
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [{
+                "item": "minecraft:cooked_chicken"
+            },
+            {
+                "item": "minecraft:egg"
+            },
+            {
+                "item": "minecraft:dried_kelp"
+            },
+            {
+                "item": "minecraft:bowl"
+            }
+        ],
+        "result": {
+            "item": "food:ramen",
+            "count": 1
+        }
+    }
+}

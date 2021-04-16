@@ -1,0 +1,54 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:raw_waffle_recipe"
+        },
+        "groups": [
+            "food"
+        ],
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "012",
+            "345",
+            "678"
+        ],
+        "key": {
+            "0": {
+                "item": "minecraft:wheat"
+            },
+            "1": {
+                "item": "minecraft:wheat"
+            },
+            "2": {
+                "item": "minecraft:wheat"
+            },
+            "3": {
+                "item": "minecraft:bucket",
+                "data": 1
+            },
+            "4": {
+                "item": "minecraft:sugar"
+            },
+            "5": {
+                "item": "minecraft:bucket",
+                "data": 1
+            },
+            "6": {
+                "item": "minecraft:wheat"
+            },
+            "7": {
+                "item": "minecraft:wheat"
+            },
+            "8": {
+                "item": "minecraft:wheat"
+            }
+        },
+        "result": {
+            "item": "food:raw_waffle",
+            "count": 1
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:empty_mre_recipe"
+        },
+        "groups": [
+            "food"
+        ],
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "012",
+            "3 5",
+            " 7 "
+        ],
+        "key": {
+            "0": {
+                "item": "minecraft:leather"
+            },
+            "1": {
+                "item": "minecraft:leather"
+            },
+            "2": {
+                "item": "minecraft:leather"
+            },
+            "3": {
+                "item": "minecraft:leather"
+            },
+            "5": {
+                "item": "minecraft:leather"
+            },
+            "7": {
+                "item": "minecraft:bowl"
+            }
+        },
+        "result": {
+            "item": "food:empty_mre",
+            "count": 1
+        }
+    }
+}

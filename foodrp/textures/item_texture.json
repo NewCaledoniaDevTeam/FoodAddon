@@ -1,0 +1,39 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "jerky": {
+            "textures": "textures/items/jerky"
+        },
+        "cooked_waffle": {
+            "textures": "textures/items/waffle"
+        },
+        "mre": {
+            "textures": "textures/items/canned_beef"
+        },
+        "ramen": {
+            "textures": "textures/items/ramen"
+        },
+        "chocolate_milk": {
+            "textures": "textures/items/chocolate_milk"
+        },
+        "apple_pie": {
+            "textures": "textures/items/apple_pie"
+        },
+        "curry_powder": {
+            "textures": "textures/items/seasoning"
+        },
+        "hot_chocolate": {
+            "textures": "textures/items/coffee"
+        },
+        "curry": {
+            "textures": "textures/items/curry"
+        },
+        "raw_waffle": {
+            "textures": "textures/items/raw_wafffle"
+        },
+        "empty_mre": {
+            "textures": "textures/items/empty_can"
+        }
+    }
+}

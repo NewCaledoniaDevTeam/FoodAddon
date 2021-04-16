@@ -1,0 +1,52 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:apple_pie_recipe"
+        },
+        "groups": [
+            "food"
+        ],
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "012",
+            "345",
+            "678"
+        ],
+        "key": {
+            "0": {
+                "item": "minecraft:bread"
+            },
+            "1": {
+                "item": "minecraft:bread"
+            },
+            "2": {
+                "item": "minecraft:bread"
+            },
+            "3": {
+                "item": "minecraft:bread"
+            },
+            "4": {
+                "item": "minecraft:apple"
+            },
+            "5": {
+                "item": "minecraft:bread"
+            },
+            "6": {
+                "item": "minecraft:bread"
+            },
+            "7": {
+                "item": "minecraft:bread"
+            },
+            "8": {
+                "item": "minecraft:bread"
+            }
+        },
+        "result": {
+            "item": "food:apple_pie",
+            "count": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "food:hot_chocolate_recipe"
+        },
+        "groups": [
+            "food"
+        ],
+        "tags": [
+            "furnace"
+        ],
+        "input": {
+            "item": "food:chocolate_milk"
+        },
+        "output": {
+            "item": "food:hot_chocolate"
+        }
+    }
+}
