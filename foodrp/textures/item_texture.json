@@ -9,7 +9,7 @@
             "textures": "textures/items/waffle"
         },
         "mre": {
-            "textures": "textures/items/canned_beef"
+            "textures": "textures/items/mre"
         },
         "ramen": {
             "textures": "textures/items/ramen"
@@ -24,7 +24,7 @@
             "textures": "textures/items/seasoning"
         },
         "hot_chocolate": {
-            "textures": "textures/items/coffee"
+            "textures": "textures/items/hot_chocolate"
         },
         "curry": {
             "textures": "textures/items/curry"
@@ -33,7 +33,13 @@
             "textures": "textures/items/raw_wafffle"
         },
         "empty_mre": {
-            "textures": "textures/items/empty_can"
+            "textures": "textures/items/empty_mre"
+        },
+        "coke": {
+            "textures": "textures/items/coke"
+        },
+        "cheese": {
+            "textures": "textures/items/cheese"
         }
     }
 }

@@ -1,0 +1,28 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:coke_recipe"
+        },
+        "groups": [
+            "food"
+        ],
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [{
+                "item": "minecraft:sweet_berries"
+            },
+            {
+                "item": "minecraft:sugar"
+            },
+            {
+                "item": "minecraft:potion"
+            }
+        ],
+        "result": {
+            "item": "food:coke",
+            "count": 1
+        }
+    }
+}

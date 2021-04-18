@@ -1,0 +1,29 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:cheese"
+        },
+        "groups": [
+            "food"
+        ],
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "###",
+            "###",
+            "###"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:bucket",
+                "data": 1
+            }
+        },
+        "result": {
+            "item": "food:cheese",
+            "count": 1
+        }
+    }
+}
