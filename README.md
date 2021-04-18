@@ -2,4 +2,4 @@
 
 ![logo](foodrp/pack_icon.png)
 
-[Checked Documentation](docs/)
+[Check out Documentation](docs/)
