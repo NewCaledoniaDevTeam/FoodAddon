@@ -1,6 +1,6 @@
 # Completed Foods
 
-## Apple Pie
+## [![apple_pie.png](../foodrp/textures/items/apple_pie.png)](../foodrp/textures/items/apple_pie.png) Apple Pie
 
 ```txt
 Name: Apple Pie
@@ -18,9 +18,9 @@ How many hunger: 5 hunger
 Notes: NA
 ```
 
-[![apple_pie.png](../foodrp/textures/items/apple_pie.png)](../foodrp/textures/items/apple_pie.png)
 
-## Chocolate Milk
+
+## [![chocolate_milk.png](../foodrp/textures/items/chocolate_milk.png)](../foodrp/textures/items/chocolate_milk.png) Chocolate Milk
 
 ```txt
 Name: Chocolate Milk
@@ -38,5 +38,3 @@ Stack Size: 64
 How many hunger: 2 hunger
 Notes: Returns Bucket
 ```
-
-[![chocolate_milk.png](../foodrp/textures/items/chocolate_milk.png)](../foodrp/textures/items/chocolate_milk.png)
