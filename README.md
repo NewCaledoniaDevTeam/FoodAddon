@@ -1,5 +1,5 @@
 # foodAddon
 
-![logo](foodrp/pack_icon.png)
+![logo](background.png)
 
 [Check out Documentation](docs/)
