@@ -1,4 +1,4 @@
-# foodAddon
+# New Caledonia Food Addon
 
 ![logo](background.png)
 
