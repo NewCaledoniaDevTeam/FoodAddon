@@ -3,7 +3,7 @@
 <!--![Title](../background.png)-->
 
  <div align="center"> 
-    <img src="../background.png" alt="title" width="720" height="340">
+    <img src="../background.png" alt="title" width="500" height="236px">
  </div>
 
 ## [![apple_pie.png](../foodrp/textures/items/apple_pie.png)](../foodrp/textures/items/apple_pie.png) Apple Pie
