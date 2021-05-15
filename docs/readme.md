@@ -1,10 +1,6 @@
 # Completed Foods
 
-<!--![Title](../background.png)-->
-
- <div align="center"> 
-    <img src="../background.png" alt="title" width="500" height="236px">
- </div>
+![Title](../background.png)
 
 ## [![apple_pie.png](../foodrp/textures/items/apple_pie.png)](../foodrp/textures/items/apple_pie.png) Apple Pie
 
