@@ -55,8 +55,8 @@ Notes: DOES NOT GIVE ANYTHING BACK
 <h2>
  <a herf="../foodrp/textures/items/coke.png">
   <img src="../foodrp/textures/items/coke.png" width="32px" height="32px" alt="coke.png">
-  Coke
  </a>
+ Coke
 </h2>
 
 ```txt
