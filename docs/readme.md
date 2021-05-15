@@ -49,7 +49,13 @@ How many hunger: 8 hunger
 Notes: DOES NOT GIVE ANYTHING BACK
 ```
 
-## [![coke.png](../foodrp/textures/items/coke.png)](../foodrp/textures/items/coke.png) Coke
+<!--## [![coke.png](../foodrp/textures/items/coke.png)](../foodrp/textures/items/coke.png) Coke-->
+<h2>
+ <a herf="../foodrp/textures/items/coke.png">
+  <img src="../foodrp/textures/items/coke.png" width="32px" height="32px" alt="coke.png">
+  Coke
+ </a>
+</h2>
 
 ```txt
 Name: Coke
