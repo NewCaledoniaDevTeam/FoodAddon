@@ -46,9 +46,15 @@
                 "item": "minecraft:wheat"
             }
         },
-        "result": {
-            "item": "food:raw_waffle",
-            "count": 1
-        }
+        "result": [{
+                "item": "food:raw_waffle",
+                "count": 1
+            },
+            {
+                "item": "minecraft:bucket",
+                "count": 2,
+                "data": 0
+            }
+        ]
     }
 }
