@@ -1,0 +1,28 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:chicken_mre_recipe"
+        },
+        "groups": [
+            "food"
+        ],
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [{
+                "item": "food:empty_mre"
+            },
+            {
+                "item": "minecraft:cooked_chicken"
+            },
+            {
+                "item": "minecraft:bread"
+            }
+        ],
+        "result": {
+            "item": "food:chicken_mre",
+            "count": 1
+        }
+    }
+}

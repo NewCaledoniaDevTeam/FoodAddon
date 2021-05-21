@@ -2,7 +2,7 @@
     "format_version": "1.12",
     "minecraft:item": {
         "description": {
-            "identifier": "food:coke",
+            "identifier": "food:cheese_pizza",
             "register_to_creative_menu": true
         },
         "components": {
@@ -14,11 +14,10 @@
                 "saturation_modifier": "low",
                 "can_always_eat": true,
                 "is_meat": false,
-                "using_converts_to": "minecraft:glass_bottle",
                 "effects": [{
-                    "name": "nausea",
+                    "name": "fire_resistance",
                     "chance": 1.0,
-                    "duration": 600,
+                    "duration": 60,
                     "amplifier": 250
                 }]
             }

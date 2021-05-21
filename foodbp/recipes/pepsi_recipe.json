@@ -2,7 +2,7 @@
     "format_version": "1.12",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "minecraft:coke"
+            "identifier": "minecraft:pepsi"
         },
         "groups": [
             "food"
@@ -11,13 +11,14 @@
             "crafting_table"
         ],
         "pattern": [
-            " B ",
+            " D ",
             " S ",
             " W "
         ],
         "key": {
-            "B": {
-                "item": "minecraft:sweet_berries"
+            "D": {
+                "item": "minecraft:dye",
+                "data": 18
             },
             "S": {
                 "item": "minecraft:sugar"
@@ -27,7 +28,7 @@
             }
         },
         "result": {
-            "item": "food:coke",
+            "item": "food:pepsi",
             "count": 1
         }
     }

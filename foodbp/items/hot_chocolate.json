@@ -14,6 +14,7 @@
                 "saturation_modifier": "low",
                 "can_always_eat": true,
                 "is_meat": false,
+                "using_converts_to": "minecraft:bucket",
                 "effects": [{
                     "name": "fire_resistance",
                     "chance": 1.0,

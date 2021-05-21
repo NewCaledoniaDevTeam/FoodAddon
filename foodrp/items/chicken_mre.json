@@ -2,12 +2,12 @@
     "format_version": "1.12",
     "minecraft:item": {
         "description": {
-            "identifier": "nate:very_super_special_totally_legal_coke",
+            "identifier": "food:chicken_mre",
             "category": "Items",
-            "register_to_creative_menu": false
+            "register_to_creative_menu": true
         },
         "components": {
-            "minecraft:icon": "coke",
+            "minecraft:icon": "chicken_mre",
             "minecraft:render_offsets": "apple",
             "minecraft:use_animation": "eat"
         }

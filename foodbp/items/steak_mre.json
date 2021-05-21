@@ -2,7 +2,7 @@
     "format_version": "1.12",
     "minecraft:item": {
         "description": {
-            "identifier": "food:mre",
+            "identifier": "food:steak_mre",
             "register_to_creative_menu": true
         },
         "components": {

@@ -2,7 +2,7 @@
     "format_version": "1.12",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "minecraft:coke"
+            "identifier": "minecraft:pepperoni_pizza"
         },
         "groups": [
             "food"
@@ -11,23 +11,26 @@
             "crafting_table"
         ],
         "pattern": [
-            " B ",
-            " S ",
-            " W "
+            "EEE",
+            "BSB",
+            "WWW"
         ],
         "key": {
-            "B": {
-                "item": "minecraft:sweet_berries"
-            },
             "S": {
                 "item": "minecraft:sugar"
             },
+            "B": {
+                "item": "minecraft:beetroot"
+            },
             "W": {
-                "item": "minecraft:potion"
+                "item": "minecraft:wheat"
+            },
+            "E": {
+                "item": "minecraft:cooked_beef"
             }
         },
         "result": {
-            "item": "food:coke",
+            "item": "food:pepperoni_pizza",
             "count": 1
         }
     }

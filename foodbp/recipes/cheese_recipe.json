@@ -21,9 +21,15 @@
                 "data": 1
             }
         },
-        "result": {
-            "item": "food:cheese",
-            "count": 1
-        }
+        "result": [{
+                "item": "food:cheese",
+                "count": 1
+            },
+            {
+                "item": "minecraft:bucket",
+                "count": 9,
+                "data": 0
+            }
+        ]
     }
 }

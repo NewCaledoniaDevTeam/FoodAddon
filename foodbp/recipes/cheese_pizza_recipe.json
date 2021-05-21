@@ -2,7 +2,7 @@
     "format_version": "1.12",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "minecraft:coke"
+            "identifier": "minecraft:cheese_pizza"
         },
         "groups": [
             "food"
@@ -11,23 +11,23 @@
             "crafting_table"
         ],
         "pattern": [
-            " B ",
-            " S ",
-            " W "
+            "SSS",
+            "BBB",
+            "WWW"
         ],
         "key": {
-            "B": {
-                "item": "minecraft:sweet_berries"
-            },
             "S": {
                 "item": "minecraft:sugar"
             },
+            "B": {
+                "item": "minecraft:beetroot"
+            },
             "W": {
-                "item": "minecraft:potion"
+                "item": "minecraft:wheat"
             }
         },
         "result": {
-            "item": "food:coke",
+            "item": "food:cheese_pizza",
             "count": 1
         }
     }

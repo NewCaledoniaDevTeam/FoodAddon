@@ -2,7 +2,7 @@
     "format_version": "1.12",
     "minecraft:recipe_shapeless": {
         "description": {
-            "identifier": "minecraft:mre_recipe"
+            "identifier": "minecraft:steak_mre_recipe"
         },
         "groups": [
             "food"
@@ -21,7 +21,7 @@
             }
         ],
         "result": {
-            "item": "food:mre",
+            "item": "food:steak_mre",
             "count": 1
         }
     }

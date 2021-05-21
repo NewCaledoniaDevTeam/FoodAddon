@@ -6,6 +6,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.4] - 2021-05-20
+### Added
+- Coke
+- Cheese
+- Chicken MRE
+- Pepsi
+- Cheese Pizza
+- Pepperoni Pizza
+
+### Fixed
+- Curry
+    - When Crafting, gives you bucket back
+    - After eating, gives you bowl back
+- Ramen
+    - After eating, gives you bowl back
+- Coke
+    - After eating, gives you glass bottle
+- Hot Chocolate
+    - After eating, gives you bucket 
+
+### TODO
+- Chocolate Milk should clear effects
+
 ## [0.0.3] - 2021-04-15
 ### Added
 - Chocolate Milk now gives the bucket back.
@@ -17,8 +40,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - MRE should give regen and resistance
 - Ramen should give strength and resistance
 
-### TODO
-- Chocolate Milk should clear effects
 
 ## [0.0.2] - 2021-04-15
 ### Added

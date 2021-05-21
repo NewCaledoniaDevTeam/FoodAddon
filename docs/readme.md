@@ -36,7 +36,7 @@ S=Sugar
 Effects: WIP
 Stack Size: 64
 How many hunger: 2 hunger
-Notes: Returns Bucket
+Notes: After eating, gives you bucket
 ```
 
 ## [![hot_chocolate.png](../foodrp/textures/items/hot_chocolate.png)](../foodrp/textures/items/hot_chocolate.png) Hot Chocolate
@@ -48,7 +48,7 @@ How to make: Chocolate Milk
 Effects: Fire Resistance 100% 2 mins amp 10
 Stack Size: 64
 How many hunger: 8 hunger
-Notes: DOES NOT GIVE ANYTHING BACK
+Notes: After eating, gives you bucket
 ```
 
 <!--## [![coke.png](../foodrp/textures/items/coke.png)](../foodrp/textures/items/coke.png) Coke-->
@@ -63,14 +63,34 @@ Notes: DOES NOT GIVE ANYTHING BACK
 Name: Coke
 Which crafting util: Crafting Table
 How to make:
-Shapeless Recipe
-Sweet Berries X1
-Sugar X1
-Water Bottle X1
+ B
+ S
+ W
+B=Sweet Berries
+S=Sugar
+W=Water Bottle
 Effects: Nause 100% 10 mins amp 250
 Stack Size: 64
 How many hunger: 20 hunger
-Notes: None
+Notes: After eating, gives you glass bottle
+```
+
+## [![pepsi.png](../foodrp/textures/items/pepsi.png)](../foodrp/textures/items/pepsi.png) pepsi
+
+```txt
+Name: Pepsi
+Which crafting util: Crafting Table
+How to make:
+ D
+ S
+ W
+B=Blue Dye
+S=Sugar
+W=Water Bottle
+Effects: Nause 100% 1 min amp 250 and Health Boost 100% 5 sec amp 250 and saturation 100% 5 sec amp 250
+Stack Size: 64
+How many hunger: 6 hunger
+Notes: After eating, gives you glass bottle
 ```
 
 ## [![raw_wafffle.png](../foodrp/textures/items/raw_wafffle.png)](../foodrp/textures/items/raw_wafffle.png) Raw Waffle
@@ -129,7 +149,9 @@ Bowl X1
 Effects: Fire Resistance 100% 15 sec amp 4
 Stack Size: 64
 How many hunger: 9 hunger
-Notes: DOES NOT GIVE ANYTHING BACK
+Notes:
+    - When Crafting, gives you bucket back
+    - After eating, gives you bowl back
 ```
 
 ## [![empty_mre.png](../foodrp/textures/items/empty_mre.png)](../foodrp/textures/items/empty_mre.png) Empty MRE
@@ -149,15 +171,31 @@ How many hunger: 1 hunger
 Notes: None
 ```
 
-## [![mre.png](../foodrp/textures/items/mre.png)](../foodrp/textures/items/mre.png) MRE
+## [![steak_mre.png](../foodrp/textures/items/steak_mre.png)](../foodrp/textures/items/steak_mre.png) Steak MRE
 
 ```txt
-Name: MRE
+Name: Steak MRE
 Which crafting util: Crafting Table
 How to make: 
 Shapeless Recipe
 Empty MRE X1
 Cooked Beef X1
+Bread X1
+Effects: Regeneration 100% 30 sec amp 4 and Resistance 100% 30 sec amp 4
+Stack Size: 64
+How many hunger: 20 hunger
+Notes: Returns Empty MRE
+```
+
+## [![chicken_mre.png](../foodrp/textures/items/chicken_mre.png)](../foodrp/textures/items/chicken_mre.png) Chicken MRE
+
+```txt
+Name: Chicken MRE
+Which crafting util: Crafting Table
+How to make: 
+Shapeless Recipe
+Empty MRE X1
+Cooked Chicken X1
 Bread X1
 Effects: Regeneration 100% 30 sec amp 4 and Resistance 100% 30 sec amp 4
 Stack Size: 64
@@ -191,5 +229,58 @@ Bowl X1
 Effects: Strength 100% 10 sec amp 4 and Resistance 100% 10 sec amp 4
 Stack Size: 64
 How many hunger: 11 hunger
+Notes: After eating, gives you bowl back
+```
+
+## [![cheese.png](../foodrp/textures/items/cheese.png)](../foodrp/textures/items/cheese.png) Cheese
+
+```txt
+Name: Cheese
+Which crafting util: Crafting Table
+How to make: 
+MMM
+MMM
+MMM
+M=Milk Bucket
+Effects: None
+Stack Size: 64
+How many hunger: 10 hunger
+Notes: Returns 9 Buckets
+```
+
+## [![cheese_pizza.png](../foodrp/textures/items/cheese_pizza.png)](../foodrp/textures/items/cheese_pizza.png) Cheese Pizza
+
+```txt
+Name: Cheese Pizza
+Which crafting util: Crafting Table
+How to make: 
+SSS
+BBB
+WWW
+S=Sugar
+B=Beetroot
+W=Wheat
+Effects: Fire Resistance 100% 1 min amp 250
+Stack Size: 64
+How many hunger: 10 hunger
+Notes: None
+```
+
+## [![pepperoni_pizza.png](../foodrp/textures/items/pepperoni_pizza.png)](../foodrp/textures/items/pepperoni_pizza.png) Pepperoni Pizza
+
+```txt
+Name: Pepperoni Pizza
+Which crafting util: Crafting Table
+How to make: 
+EEE
+BSB
+WWW
+S=Sugar
+B=Beetroot
+W=Wheat
+E=Cooked Beef
+Effects: Saturation 100% 40 sec amp 250 and Health Boost 100% 2 sec amp 250
+Stack Size: 64
+How many hunger: 10 hunger
 Notes: None
 ```

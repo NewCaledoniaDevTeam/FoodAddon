@@ -2,12 +2,12 @@
     "format_version": "1.12",
     "minecraft:item": {
         "description": {
-            "identifier": "food:mre",
+            "identifier": "food:pepperoni_pizza",
             "category": "Items",
             "register_to_creative_menu": true
         },
         "components": {
-            "minecraft:icon": "mre",
+            "minecraft:icon": "pepperoni_pizza",
             "minecraft:render_offsets": "apple",
             "minecraft:use_animation": "eat"
         }

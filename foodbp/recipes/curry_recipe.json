@@ -27,9 +27,15 @@
                 "item": "minecraft:bowl"
             }
         ],
-        "result": {
-            "item": "food:curry",
-            "count": 1
-        }
+        "result": [{
+                "item": "food:curry",
+                "count": 1
+            },
+            {
+                "item": "minecraft:bucket",
+                "count": 1,
+                "data": 0
+            }
+        ]
     }
 }

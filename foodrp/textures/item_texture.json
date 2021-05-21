@@ -8,9 +8,6 @@
         "cooked_waffle": {
             "textures": "textures/items/waffle"
         },
-        "mre": {
-            "textures": "textures/items/mre"
-        },
         "ramen": {
             "textures": "textures/items/ramen"
         },
@@ -35,11 +32,26 @@
         "empty_mre": {
             "textures": "textures/items/empty_mre"
         },
+        "steak_mre": {
+            "textures": "textures/items/steak_mre"
+        },
+        "chicken_mre": {
+            "textures": "textures/items/chicken_mre"
+        },
         "coke": {
             "textures": "textures/items/coke"
         },
+        "pepsi": {
+            "textures": "textures/items/pepsi"
+        },
         "cheese": {
             "textures": "textures/items/cheese"
+        },
+        "cheese_pizza": {
+            "textures": "textures/items/cheese_pizza"
+        },
+        "pepperoni_pizza": {
+            "textures": "textures/items/pepperoni_pizza"
         }
     }
 }
