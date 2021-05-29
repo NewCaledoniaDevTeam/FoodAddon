@@ -5,8 +5,7 @@
 
 ## [![apple_pie.png](../foodrp/textures/items/apple_pie.png)](../foodrp/textures/items/apple_pie.png) Apple Pie
 
-<details close="close">
-<summary><img src="../foodrp/textures/items/apple_pie.png"> Apple Pie Information</summary>
+
 
 [![apple_pie_recipe.png](images/apple_pie_recipe.png)](images/apple_pie_recipe.png)
 
@@ -25,12 +24,10 @@ How many hunger: 5 hunger
 Notes: None
 ```
 
-</details>
+
 
 ## [![chocolate_milk.png](../foodrp/textures/items/chocolate_milk.png)](../foodrp/textures/items/chocolate_milk.png) Chocolate Milk
 
-<details close="close">
-<summary>Chocolate Milk Information</summary>
 
 [![chocolate_milk_recipe.png](images/chocolate_milk_recipe.png)](images/chocolate_milk_recipe.png)
 
@@ -50,12 +47,10 @@ How many hunger: 2 hunger
 Notes: After eating, gives you bucket
 ```
 
-</details>
+
 
 ## [![hot_chocolate.png](../foodrp/textures/items/hot_chocolate.png)](../foodrp/textures/items/hot_chocolate.png) Hot Chocolate
 
-<details close="close">
-<summary>Hot Chocolate Information</summary>
 
 [![hot_chocolate_recipe.png](images/hot_chocolate_recipe.png)](images/hot_chocolate_recipe.png)
 
@@ -69,7 +64,7 @@ How many hunger: 8 hunger
 Notes: After eating, gives you bucket
 ```
 
-</details>
+
 
 <!--## [![coke.png](../foodrp/textures/items/coke.png)](../foodrp/textures/items/coke.png) Coke-->
 <h2>
@@ -79,8 +74,6 @@ Notes: After eating, gives you bucket
  Coke
 </h2>
 
-<details close="close">
-<summary>Coke Information</summary>
 
 ```txt
 Name: Coke
@@ -98,12 +91,10 @@ How many hunger: 20 hunger
 Notes: After eating, gives you glass bottle
 ```
 
-</details>
+
 
 ## [![pepsi.png](../foodrp/textures/items/pepsi.png)](../foodrp/textures/items/pepsi.png) Pepsi
 
-<details close="close">
-<summary>Pepsi Information</summary>
 
 ```txt
 Name: Pepsi
@@ -121,12 +112,10 @@ How many hunger: 6 hunger
 Notes: After eating, gives you glass bottle
 ```
 
-</details>
+
 
 ## [![raw_wafffle.png](../foodrp/textures/items/raw_wafffle.png)](../foodrp/textures/items/raw_wafffle.png) Raw Waffle
 
-<details close="close">
-<summary>Raw Waffle Information</summary>
 
 ```txt
 Name: Waffle
@@ -144,12 +133,10 @@ How many hunger: 1 hunger
 Notes: None
 ```
 
-</details>
+
 
 ## [![waffle.png](../foodrp/textures/items/waffle.png)](../foodrp/textures/items/waffle.png) Waffle
 
-<details close="close">
-<summary>Waffle Information</summary>
 
 ```txt
 Name: Waffle
@@ -161,12 +148,10 @@ How many hunger: 4 hunger
 Notes: None
 ```
 
-</details>
+
 
 ## [![seasoning.png](../foodrp/textures/items/seasoning.png)](../foodrp/textures/items/seasoning.png) Curry Powder
 
-<details close="close">
-<summary>Curry Powder Information</summary>
 
 ```txt
 Name: Curry Powder
@@ -178,12 +163,10 @@ How many hunger: -2 hunger
 Notes: None
 ```
 
-</details>
+
 
 ## [![curry.png](../foodrp/textures/items/curry.png)](../foodrp/textures/items/curry.png) Curry
 
-<details close="close">
-<summary>Curry Information</summary>
 
 ```txt
 Name: Curry
@@ -202,12 +185,10 @@ Notes:
     - After eating, gives you bowl back
 ```
 
-</details>
+
 
 ## [![empty_mre.png](../foodrp/textures/items/empty_mre.png)](../foodrp/textures/items/empty_mre.png) Empty MRE
 
-<details close="close">
-<summary>Empty MRE Information</summary>
 
 ```txt
 Name: Empty MRE
@@ -224,12 +205,10 @@ How many hunger: 1 hunger
 Notes: None
 ```
 
-</details>
+
 
 ## [![steak_mre.png](../foodrp/textures/items/steak_mre.png)](../foodrp/textures/items/steak_mre.png) Steak MRE
 
-<details close="close">
-<summary>Steak MRE Information</summary>
 
 ```txt
 Name: Steak MRE
@@ -245,12 +224,10 @@ How many hunger: 20 hunger
 Notes: Returns Empty MRE
 ```
 
-</details>
+
 
 ## [![chicken_mre.png](../foodrp/textures/items/chicken_mre.png)](../foodrp/textures/items/chicken_mre.png) Chicken MRE
 
-<details close="close">
-<summary>Chicken MRE Information</summary>
 
 ```txt
 Name: Chicken MRE
@@ -266,12 +243,10 @@ How many hunger: 20 hunger
 Notes: Returns Empty MRE
 ```
 
-</details>
+
 
 ## [![jerky.png](../foodrp/textures/items/jerky.png)](../foodrp/textures/items/jerky.png) Jerky
 
-<details close="close">
-<summary>Jerky Information</summary>
 
 ```txt
 Name: Jerky
@@ -283,12 +258,10 @@ How many hunger: 6 hunger
 Notes: None
 ```
 
-</details>
+
 
 ## [![ramen.png](../foodrp/textures/items/ramen.png)](../foodrp/textures/items/ramen.png) Ramen
 
-<details close="close">
-<summary>Ramen Information</summary>
 
 ```txt
 Name: Ramen
@@ -305,12 +278,10 @@ How many hunger: 11 hunger
 Notes: After eating, gives you bowl back
 ```
 
-</details>
+
 
 ## [![cheese.png](../foodrp/textures/items/cheese.png)](../foodrp/textures/items/cheese.png) Cheese
 
-<details close="close">
-<summary>Cheese Information</summary>
 
 ```txt
 Name: Cheese
@@ -326,12 +297,10 @@ How many hunger: 10 hunger
 Notes: Returns 9 Buckets
 ```
 
-</details>
+
 
 ## [![cheese_pizza.png](../foodrp/textures/items/cheese_pizza.png)](../foodrp/textures/items/cheese_pizza.png) Cheese Pizza
 
-<details close="close">
-<summary>Cheese Pizza Information</summary>
 
 ```txt
 Name: Cheese Pizza
@@ -349,12 +318,10 @@ How many hunger: 10 hunger
 Notes: None
 ```
 
-</details>
+
 
 ## [![pepperoni_pizza.png](../foodrp/textures/items/pepperoni_pizza.png)](../foodrp/textures/items/pepperoni_pizza.png) Pepperoni Pizza
 
-<details close="close">
-<summary>Pepperoni Pizza Information</summary>
 
 ```txt
 Name: Pepperoni Pizza
@@ -373,13 +340,11 @@ How many hunger: 10 hunger
 Notes: None
 ```
 
-</details>
+
 
 ## [![vegan_pizza.png](../foodrp/textures/items/vegan_pizza.png)](../foodrp/textures/items/vegan_pizza.png) Vegan Pizza
 
 
-<details close="close">
-<summary>Vegan Pizza Information</summary>
 
 ```txt
 Name: Vegan Pizza
@@ -397,12 +362,10 @@ How many hunger: 6 hunger
 Notes: None
 ```
 
-</details>
+
 
 ## [![cursed_pizza.png](../foodrp/textures/items/cursed_pizza.png)](../foodrp/textures/items/cursed_pizza.png) Cursed Pizza
 
-<details close="close">
-<summary>Cursed Pizza Information</summary>
 
 ```txt
 Name: Cursed Pizza
@@ -424,12 +387,10 @@ How many hunger: 40 hunger
 Notes: None
 ```
 
-</details>
+
 
 ## [![baguette.png](../foodrp/textures/items/baguette.png)](../foodrp/textures/items/baguette.png) Baguette
 
-<details close="close">
-<summary>Baguette Information</summary>
 
 ```txt
 Name: Baguette
@@ -444,5 +405,3 @@ Stack Size: 64
 How many hunger: 9 hunger
 Notes: None
 ```
-
-</details>
