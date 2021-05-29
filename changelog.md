@@ -6,6 +6,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.6] - 2021-05-27
+### Added
+- Vegan and Cursed Pizza Docs
+- Baguette
+
+### TODO
+- Chocolate Milk should clear effects
+- Make Curry give bucket
+
+## [0.0.5] - 2021-05-26
+### Added
+- Vegan Pizza
+- Cursed Pizza
+
+### Fixed
+- Changed Pepsi Texture
+
 ## [0.0.4] - 2021-05-20
 ### Added
 - Coke
@@ -25,9 +42,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - After eating, gives you glass bottle
 - Hot Chocolate
     - After eating, gives you bucket 
-
-### TODO
-- Chocolate Milk should clear effects
 
 ## [0.0.3] - 2021-04-15
 ### Added

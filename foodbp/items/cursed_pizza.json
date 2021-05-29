@@ -2,28 +2,33 @@
     "format_version": "1.12",
     "minecraft:item": {
         "description": {
-            "identifier": "food:pepperoni_pizza",
+            "identifier": "food:cursed_pizza",
             "register_to_creative_menu": true
         },
         "components": {
             "minecraft:max_stack_size": 64,
             "minecraft:use_duration": 32,
             "minecraft:food": {
-                "nutrition": 20,
+                "nutrition": 40,
                 "nutritionalValue": "low",
                 "saturation_modifier": "low",
                 "can_always_eat": true,
-                "is_meat": true,
+                "is_meat": false,
                 "effects": [{
-                        "name": "saturation",
+                        "name": "nausea",
                         "chance": 1.0,
-                        "duration": 40,
+                        "duration": 1800,
+                        "amplifier": 250
+                    }, {
+                        "name": "slowness",
+                        "chance": 1.0,
+                        "duration": 1800,
                         "amplifier": 250
                     },
                     {
-                        "name": "health_boost",
+                        "name": "poison",
                         "chance": 1.0,
-                        "duration": 2,
+                        "duration": 1800,
                         "amplifier": 250
                     }
                 ]

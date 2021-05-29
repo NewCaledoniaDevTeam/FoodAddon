@@ -52,6 +52,15 @@
         },
         "pepperoni_pizza": {
             "textures": "textures/items/pepperoni_pizza"
+        },
+        "vegan_pizza": {
+            "textures": "textures/items/vegan_pizza"
+        },
+        "cursed_pizza": {
+            "textures": "textures/items/cursed_pizza"
+        },
+        "baguette": {
+            "textures": "textures/items/baguette"
         }
     }
 }

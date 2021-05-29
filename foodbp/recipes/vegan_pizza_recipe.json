@@ -1,0 +1,34 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:vegan_pizza"
+        },
+        "groups": [
+            "food"
+        ],
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "KKK",
+            "SSS",
+            "BBB"
+        ],
+        "key": {
+            "K": {
+                "item": "minecraft:kelp"
+            },
+            "S": {
+                "item": "minecraft:wheat_seeds"
+            },
+            "B": {
+                "item": "minecraft:bread"
+            }
+        },
+        "result": {
+            "item": "food:vegan_pizza",
+            "count": 1
+        }
+    }
+}
