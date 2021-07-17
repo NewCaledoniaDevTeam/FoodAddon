@@ -1,10 +1,11 @@
 # Completed Foods
 
+*Note that any screenshots use the [New Caledonia Shader](https://github.com/NewCaledoniaDevTeam/BETA_ShaderPack/releases), so some textures of the food items maybe off when compared with Vanilla Minecraft textures.
+
 ![Title](../background.png)
 
 
 ## [![apple_pie.png](../foodrp/textures/items/apple_pie.png)](../foodrp/textures/items/apple_pie.png) Apple Pie
-
 
 
 [![apple_pie_recipe.png](images/apple_pie_recipe.png)](images/apple_pie_recipe.png)
@@ -74,6 +75,7 @@ Notes: After eating, gives you bucket
  Coke
 </h2>
 
+[![coke_recipe.png](images/coke_recipe.png)](images/coke_recipe.png)
 
 ```txt
 Name: Coke
@@ -96,6 +98,8 @@ Notes: After eating, gives you glass bottle
 ## [![pepsi.png](../foodrp/textures/items/pepsi.png)](../foodrp/textures/items/pepsi.png) Pepsi
 
 
+[![pepsi_recipe.png](images/pepsi_recipe.png)](images/pepsi_recipe.png)
+
 ```txt
 Name: Pepsi
 Which crafting util: Crafting Table
@@ -113,12 +117,13 @@ Notes: After eating, gives you glass bottle
 ```
 
 
-
 ## [![raw_wafffle.png](../foodrp/textures/items/raw_wafffle.png)](../foodrp/textures/items/raw_wafffle.png) Raw Waffle
 
 
+[![raw_waffle_recipe.png](images/raw_waffle_recipe.png)](images/raw_waffle_recipe.png)
+
 ```txt
-Name: Waffle
+Name: Raw Waffle
 Which crafting util: Crafting Table
 How to make:
 WWW
@@ -130,13 +135,15 @@ S=Sugar
 Effects: None
 Stack Size: 64
 How many hunger: 1 hunger
-Notes: None
+Notes: Gives two buckets when created
 ```
 
 
 
 ## [![waffle.png](../foodrp/textures/items/waffle.png)](../foodrp/textures/items/waffle.png) Waffle
 
+
+[![cooked_waffle.png](images/cooked_waffle.png)](images/cooked_waffle.png)
 
 ```txt
 Name: Waffle
@@ -153,6 +160,8 @@ Notes: None
 ## [![seasoning.png](../foodrp/textures/items/seasoning.png)](../foodrp/textures/items/seasoning.png) Curry Powder
 
 
+[![curry_powder_recipe.png](images/curry_powder_recipe.png)](images/curry_powder_recipe.png)
+
 ```txt
 Name: Curry Powder
 Which crafting util: Furnace
@@ -168,15 +177,19 @@ Notes: None
 ## [![curry.png](../foodrp/textures/items/curry.png)](../foodrp/textures/items/curry.png) Curry
 
 
+[![curry_recipe.png](images/curry_recipe.png)](images/curry_recipe.png)
+
 ```txt
 Name: Curry
 Which crafting util: Crafting Table
 How to make: 
-Shapeless Recipe
-Curry Powder X2
-Water Bucket X1
-Cooked Chicken X1
-Bowl X1
+PCP
+ W
+ B
+P=Curry Powder
+C=Cooked Chicked
+W=Bucket
+B=Bowl
 Effects: Fire Resistance 100% 15 sec amp 4
 Stack Size: 64
 How many hunger: 9 hunger
@@ -189,6 +202,8 @@ Notes:
 
 ## [![empty_mre.png](../foodrp/textures/items/empty_mre.png)](../foodrp/textures/items/empty_mre.png) Empty MRE
 
+
+[![empty_mre_recipe.png](images/empty_mre_recipe.png)](images/empty_mre_recipe.png)
 
 ```txt
 Name: Empty MRE
@@ -210,14 +225,18 @@ Notes: None
 ## [![steak_mre.png](../foodrp/textures/items/steak_mre.png)](../foodrp/textures/items/steak_mre.png) Steak MRE
 
 
+[![steak_mre_recipe.png](images/steak_mre_recipe.png)](images/steak_mre_recipe.png)
+
 ```txt
 Name: Steak MRE
 Which crafting util: Crafting Table
 How to make: 
-Shapeless Recipe
-Empty MRE X1
-Cooked Beef X1
-Bread X1
+ M
+ S
+ B
+M=Empty MRE
+S=Cooked Beef
+B=Bread
 Effects: Regeneration 100% 30 sec amp 4 and Resistance 100% 30 sec amp 4
 Stack Size: 64
 How many hunger: 20 hunger
@@ -229,14 +248,19 @@ Notes: Returns Empty MRE
 ## [![chicken_mre.png](../foodrp/textures/items/chicken_mre.png)](../foodrp/textures/items/chicken_mre.png) Chicken MRE
 
 
+[![chicken_mre_recipe.png](images/chicken_mre_recipe.png)](images/chicken_mre_recipe.png)
+
 ```txt
 Name: Chicken MRE
 Which crafting util: Crafting Table
 How to make: 
-Shapeless Recipe
-Empty MRE X1
-Cooked Chicken X1
-Bread X1
+How to make: 
+ M
+ C
+ B
+M=Empty MRE
+C=Cooked Chick
+B=Bread
 Effects: Regeneration 100% 30 sec amp 4 and Resistance 100% 30 sec amp 4
 Stack Size: 64
 How many hunger: 20 hunger
@@ -247,6 +271,8 @@ Notes: Returns Empty MRE
 
 ## [![jerky.png](../foodrp/textures/items/jerky.png)](../foodrp/textures/items/jerky.png) Jerky
 
+
+[![jerky_recipe.png](images/jerky_recipe.png)](images/jerky_recipe.png)
 
 ```txt
 Name: Jerky
@@ -262,6 +288,8 @@ Notes: None
 
 ## [![ramen.png](../foodrp/textures/items/ramen.png)](../foodrp/textures/items/ramen.png) Ramen
 
+
+[![ramen_recipe.gif](images/ramen_recipe.gif)](images/ramen_recipe.gif)
 
 ```txt
 Name: Ramen
@@ -283,14 +311,14 @@ Notes: After eating, gives you bowl back
 ## [![cheese.png](../foodrp/textures/items/cheese.png)](../foodrp/textures/items/cheese.png) Cheese
 
 
+[![cheese_recipe.gif](images/cheese_recipe.gif)](images/cheese_recipe.gif)
+
 ```txt
 Name: Cheese
 Which crafting util: Crafting Table
-How to make: 
-MMM
-MMM
-MMM
-M=Milk Bucket
+How to make:
+Shapeless Recipe 
+Milk Bucket X3
 Effects: None
 Stack Size: 64
 How many hunger: 10 hunger
@@ -301,6 +329,8 @@ Notes: Returns 9 Buckets
 
 ## [![cheese_pizza.png](../foodrp/textures/items/cheese_pizza.png)](../foodrp/textures/items/cheese_pizza.png) Cheese Pizza
 
+
+[![cheese_pizza_recipe.png](images/cheese_pizza_recipe.png)](images/cheese_pizza_recipe.png)
 
 ```txt
 Name: Cheese Pizza
@@ -322,6 +352,8 @@ Notes: None
 
 ## [![pepperoni_pizza.png](../foodrp/textures/items/pepperoni_pizza.png)](../foodrp/textures/items/pepperoni_pizza.png) Pepperoni Pizza
 
+
+[![pepperoni_pizza_recipe.png](images/pepperoni_pizza_recipe.png)](images/pepperoni_pizza_recipe.png)
 
 ```txt
 Name: Pepperoni Pizza
@@ -345,6 +377,7 @@ Notes: None
 ## [![vegan_pizza.png](../foodrp/textures/items/vegan_pizza.png)](../foodrp/textures/items/vegan_pizza.png) Vegan Pizza
 
 
+[![vegan_pizza_recipe.png](images/vegan_pizza_recipe.png)](images/vegan_pizza_recipe.png)
 
 ```txt
 Name: Vegan Pizza
@@ -366,6 +399,8 @@ Notes: None
 
 ## [![cursed_pizza.png](../foodrp/textures/items/cursed_pizza.png)](../foodrp/textures/items/cursed_pizza.png) Cursed Pizza
 
+
+[![cursed_pizza_recipe.png](images/cursed_pizza_recipe.png)](images/cursed_pizza_recipe.png)
 
 ```txt
 Name: Cursed Pizza
@@ -391,6 +426,8 @@ Notes: None
 
 ## [![baguette.png](../foodrp/textures/items/baguette.png)](../foodrp/textures/items/baguette.png) Baguette
 
+
+[![baguette_recipe.png](images/baguette_recipe.png)](images/baguette_recipe.png)
 
 ```txt
 Name: Baguette

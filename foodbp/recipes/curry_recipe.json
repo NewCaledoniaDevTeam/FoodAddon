@@ -1,6 +1,6 @@
 {
     "format_version": "1.12",
-    "minecraft:recipe_shapeless": {
+    "minecraft:recipe_shaped": {
         "description": {
             "identifier": "minecraft:curry_recipe"
         },
@@ -10,23 +10,26 @@
         "tags": [
             "crafting_table"
         ],
-        "ingredients": [{
+        "pattern": [
+            "PCP",
+            " W ",
+            " B "
+        ],
+        "key": {
+            "P": {
                 "item": "food:curry_powder"
             },
-            {
+            "C": {
+                "item": "minecraft:cooked_chicken"
+            },
+            "W": {
                 "item": "minecraft:bucket",
                 "data": 8
             },
-            {
-                "item": "food:curry_powder"
-            },
-            {
-                "item": "minecraft:cooked_chicken"
-            },
-            {
+            "B": {
                 "item": "minecraft:bowl"
             }
-        ],
+        },
         "result": [{
                 "item": "food:curry",
                 "count": 1

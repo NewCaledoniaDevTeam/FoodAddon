@@ -6,10 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.0.6] - 2021-05-27
+## [0.0.6] - 2021-07-16
 ### Added
 - Vegan and Cursed Pizza Docs
 - Baguette
+
+### Fixed
+- Curry Recipe
+- Steak MRE Recipe
+- Chicken MRE Recipe
+- Cheese Recipe
 
 ### TODO
 - Chocolate Milk should clear effects
